@@ -6,7 +6,7 @@ namespace FirstLearningsOnTheComputings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ciao Mundo!");
         }
     }
 }
